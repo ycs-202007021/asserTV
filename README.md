@@ -1,2 +1,3 @@
 # asserTV
-windowform 배운 내용을 활용한 calendar+TODO 입니다.
+made a calendar+TODO list using windowform.
+수업 시간에 배운 윈폼을 활용해 할일 리스트를 협업해서 만들었습니다
